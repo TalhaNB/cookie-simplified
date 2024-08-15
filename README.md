@@ -43,6 +43,6 @@ Cookie.exists('name')
 Checks if a cookie is currently set on the client by the provided name. Returns TRUE or FALSE
 
 ---
-That's about it  ¯\_(ツ)_/¯
+That's about it  ¯\\_(ツ)_/¯
 
 Note: Might make a TypeScript version soon or maybe update the laziness out of this one.
